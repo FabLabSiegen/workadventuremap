@@ -175,7 +175,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fablab-siegen.de\/projekte\/ein-koffer-voll-herz\/"
+                 "value":"https:\/\/fablab-siegen.de"
                 }],
          "type":"tilelayer",
          "visible":true,
