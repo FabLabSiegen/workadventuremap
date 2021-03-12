@@ -141,7 +141,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
@@ -169,7 +169,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
@@ -197,7 +197,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
@@ -225,7 +225,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
@@ -253,7 +253,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
@@ -281,7 +281,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
@@ -309,7 +309,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
@@ -337,7 +337,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
@@ -406,7 +406,7 @@
                  "value":"https:\/\/wb.hasi.it\/boards\/fablab_public_board"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um einen Blick auf das Whiteboard zu werfen.\n\nPress SPACEBAR to take a look at the whiteboard."
                 }],
@@ -452,7 +452,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber die Sicherheit im Lab zu erfahren.\n\nPress SPACEBAR to learn more about the Lab safety."
                 }],
@@ -480,7 +480,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
@@ -508,7 +508,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
@@ -536,7 +536,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
@@ -564,7 +564,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
@@ -592,7 +592,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage:",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
