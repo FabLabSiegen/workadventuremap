@@ -134,6 +134,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/das-fab-lab\/maschinen-und-technologien\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -152,6 +162,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/das-fab-lab\/maschinen-und-technologien#elab"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -170,6 +190,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/das-fab-lab\/maschinen-und-technologien#flm"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -188,6 +218,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/das-fab-lab\/maschinen-und-technologien#sla"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -206,6 +246,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/das-fab-lab\/maschinen-und-technologien#sls"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -224,6 +274,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/das-fab-lab\/maschinen-und-technologien#elektrowerkzeuge"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -242,6 +302,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/das-fab-lab\/maschinen-und-technologien#fraese"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -260,6 +330,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/das-fab-lab\/maschinen-und-technologien#laser"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber diesen Arbeitsbereich zu erfahren.\n\nPress SPACEBAR to learn more about this workspace."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -324,6 +404,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wb.hasi.it\/boards\/fablab_public_board"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um einen Blick auf das Whiteboard zu werfen.\n\nPress SPACEBAR to take a look at the whiteboard."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -360,6 +445,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/arbeitssicherheit\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um mehr \u00fcber die Sicherheit im Lab zu erfahren.\n\nPress SPACEBAR to learn more about the Lab safety."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,6 +473,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/wp-content\/uploads\/2021\/02\/photo_2021-02-18-11.45.36.jpeg"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -396,6 +501,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/wp-content\/uploads\/2021\/02\/photo_2021-02-18-11.46.58.jpeg"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -414,6 +529,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/wp-content\/uploads\/2021\/02\/2021-02-13__13-56-36-scaled.jpg"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -432,6 +557,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/wp-content\/uploads\/2021\/02\/2021-02-16__19-44-03-scaled.jpg"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -450,6 +585,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fablab-siegen.de\/wp-content\/uploads\/2021\/02\/2021-02-22__19-11-44-scaled.jpeg"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage:",
+                 "type":"string",
+                 "value":"Oh, hier versteckt sich ein Foto. \n\nAnschauen? Dr\u00fccke LEERTASTE\n\nOh, there is a hidden photo. \n\nHit SPACE to have a look"
                 }],
          "type":"tilelayer",
          "visible":true,
