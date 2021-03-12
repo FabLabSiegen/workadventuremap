@@ -283,6 +283,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE f\u00fcr einen K\u00fcchenplausch\n\n(Du betrittst dann einen Jitsi-Raum)\n\nPress SPACE to have a kitchen chat\n\n(You will then enter a Jitsi room)\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -472,7 +477,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccke die LEERTASTE um dich an den gro\u00dfen Tisch zu setzen\n\n(Du betrittst dann einen Jitsi-Raum)"
+                 "value":"Dr\u00fccke LEERTASTE um dich an den gro\u00dfen Tisch zu setzen\n\n(Du betrittst dann einen Jitsi-Raum)\n\nPress SPACE to sit down at the big table.\n\n(You will then enter a Jitsi room)\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -496,6 +501,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um dich an den Coworking-Tisch zu setzen\n\n(Du betrittst dann einen Jitsi-Raum)\n\nPress SPACE to sit down at the coworking table.\n\n(You will then enter a Jitsi room)\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -519,6 +529,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE um dich ins B\u00fcro zu unterhalten.\n\n(Du betrittst dann einen Jitsi-Raum)\n\nPress SPACE to have a office chat.\n\n(You will then enter a Jitsi room)\n"
                 }],
          "type":"tilelayer",
          "visible":true,
