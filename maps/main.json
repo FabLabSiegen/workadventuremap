@@ -277,7 +277,12 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.hasi.it\/fablab_matekueche"
+                 "value":"fablab_matekueche"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -457,7 +462,12 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.hasi.it\/fablab_grosser-tisch"
+                 "value":"fablab_grosser-tisch"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -475,7 +485,12 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.hasi.it\/fablab_coworking"
+                 "value":"fablab_coworking"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -493,7 +508,12 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.hasi.it\/fablab_buero"
+                 "value":"fablab_buero"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
