@@ -472,7 +472,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"M\u00f6chtest du dich an den gro\u00dfen Tisch setzen? (du betrittst dann einen Jitsi-Raum)"
+                 "value":"Dr\u00fccke die LEERTASTE um dich an den gro\u00dfen Tisch zu setzen\n\n(Du betrittst dann einen Jitsi-Raum)"
                 }],
          "type":"tilelayer",
          "visible":true,
